@@ -62,3 +62,15 @@ Create `EXPLANATION.md` (max 250 words) containing:
 ## Submission
 
 - Submit a public GitHub repository URL containing your solution to the Google form link provided.
+
+## Setup and Testing
+
+### Local Environment
+
+1. Install dependencies: `npm install`
+2. Run tests: `npm test`
+
+### Docker Environment
+
+1. Build the image: `docker build -t ai-sw-engineer-assignment .`
+2. Run the tests: `docker run ai-sw-engineer-assignment`

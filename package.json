@@ -1,0 +1,13 @@
+{
+	"name": "ai-sw-engineer-assignment-ts",
+	"version": "1.0.0",
+	"private": true,
+	"scripts": {
+		"test": "vitest run"
+	},
+	"devDependencies": {
+		"vitest": "0.34.3",
+		"typescript": "5.1.6"
+	}
+}
+
